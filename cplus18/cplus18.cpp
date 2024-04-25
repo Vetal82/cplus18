@@ -27,7 +27,7 @@ int main()
             amount++;
         }
     }
-    cout << "Amout:" << amout << endl;
+    cout << "Amount:" << amount << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
